@@ -9,6 +9,12 @@ JSP와 MyBatis를 이용한 회원관리 및 게시판 구현
 * **첫 실행화면**
 ![title](figure/opening.png)
   
+* **게시판 작성 예시**
+![title](figure/write.png)
+  
+* **게시판 목록**
+![title](figure/board.png)
+  
 * **회원관리**
 ![title](figure/management.png)
   
@@ -17,9 +23,6 @@ JSP와 MyBatis를 이용한 회원관리 및 게시판 구현
   
 * **로그인**
 ![title](figure/login.png)
-
-* **게시판 작성 예시**
-![title](figure/write.png)
 
 ---
 
